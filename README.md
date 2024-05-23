@@ -12,7 +12,7 @@ A new Flutter project.
 
 The following is a demonstration on how the app work
 
-1.Slash screen launches
+1.Splash screen launches
 2.SignUp Screen ,on this screen click create account button to open for you the create account page
 3.Create account screen you will enter full name and email address and password and then you create the user account which will be created and saved on firebase
 4.And take you to homepage with Welcome with the logged in user email address
